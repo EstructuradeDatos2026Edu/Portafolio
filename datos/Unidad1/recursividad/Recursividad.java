@@ -12,6 +12,6 @@ public class Recursividad {
     }
 
     public static void main(String[] args) {
-        saludo(10, "Juan"); 
+        saludo(100, "Juan"); 
     }
 }
