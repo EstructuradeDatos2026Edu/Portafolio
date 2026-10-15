@@ -1,2 +1,3 @@
-# Portafolio
-Asignatura estructura de datos
+# Estructura de datos
+Autor: Juan Eduardo Gonzalez Hernández
+## Listas Simples
