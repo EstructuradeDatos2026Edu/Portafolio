@@ -1,0 +1,9 @@
+# Archivos compilados de Java
+*.class
+
+# Directorios de compilación y empaquetado comunes (Maven, Gradle, etc.)
+target/
+build/
+.gradle/
+.idea/
+*.log
