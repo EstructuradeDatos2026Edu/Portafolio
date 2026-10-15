@@ -1,0 +1,3 @@
+C:\Users\Dell4\Desktop\temp\Portafolio\lista\src\listas\simples\ListaSimple.java
+C:\Users\Dell4\Desktop\temp\Portafolio\lista\src\listas\simples\Main.java
+C:\Users\Dell4\Desktop\temp\Portafolio\lista\src\listas\simples\Nodo.java
